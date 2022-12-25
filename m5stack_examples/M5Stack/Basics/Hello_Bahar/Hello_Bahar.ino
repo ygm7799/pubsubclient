@@ -1,10 +1,13 @@
 /*
 *******************************************************************************
 * Writer: Bahar Kaviani
-* Describe: Hello Bahar
+* Describe: 
+    Write "Hello Bahar"
+    Modified example from M5Stack > Basics > HelloWorld
 * Date: 2022/12/24
 *******************************************************************************
 */
+
 #include <M5Stack.h>
 
 /* After M5Core is started or reset
