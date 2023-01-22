@@ -1,0 +1,7 @@
+{
+    "configuration": "FlashMode=qio,FlashFreq=80,PartitionScheme=default,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:m5stack-core-esp32",
+    "programmer": "esp32:esptool",
+    "port": "COM6",
+    "sketch": "examples\\mqtt_esp32\\mqtt_esp32.ino"
+}
