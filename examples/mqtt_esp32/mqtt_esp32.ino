@@ -8,10 +8,6 @@ const char *password = "****"; // Enter WiFi password
 // MQTT Broker
 const char *mqtt_broker = "test.mosquitto.org";
 const char *topic = "AUTSmartMeteringSystem/esp32/test";
-// 2: gas / water / power / battery
-// 3: consumption / remainingPercentage
-// const char *mqtt_username = "emqx";
-// const char *mqtt_password = "public";
 const int mqtt_port = 1883;
 
 WiFiClient espClient;
