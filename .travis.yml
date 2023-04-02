@@ -5,3 +5,4 @@ compiler:
 script: cd tests && make && make test
 os:
   - linux
+  hip-
